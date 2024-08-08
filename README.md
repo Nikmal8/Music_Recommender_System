@@ -39,11 +39,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository: 
 ```bash
-https://github.com/Nikmal8/music-recommender-system.git
+https://github.com/Nikmal8/Music_Recommender_System.git
 ```
 2. Navigate to the project directory: 
 ```bash
-cd music-recommender-system
+cd Music_Recommender_System
 ```
 3. Install the dependencies: 
 ```bash
