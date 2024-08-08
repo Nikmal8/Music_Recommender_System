@@ -67,7 +67,12 @@ if st.button('Show Recommendation'):
         st.text(recommended_music_names[4])
         st.image(recommended_music_posters[4])
 
+st.markdown('''
+      # About Me \n 
+        Hey this is **KAMAL SINGH CHARAN**. \n
 
-
-
-
+        Also check us out on Social Media
+        - [Portfolio](https://main--nikmal8.netlify.app/)
+        - [LinkedIn](https://www.linkedin.com/in/kamal-charan21/)
+        - [Github](https://github.com/Nikmal8)
+        ''')
